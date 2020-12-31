@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <option name="pluginAnnotationProcessResultPath" value="$PROJECT_DIR$/build/spigradle/plugin-main" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/kr.entree/spigradle-annotations/2.0.1/fc1cb54bfe42e0d3a9782451f40fc72257f85b82/spigradle-annotations-2.0.1.jar" />
+        </processorPath>
+        <module name="citeDesCookies.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+</project>

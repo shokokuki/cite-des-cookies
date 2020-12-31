@@ -1,0 +1,7 @@
+end: 0
+currency: 'COOKIE'
+teams:
+  example:
+    balance: 0
+    members:
+      - '4d2ecb6c-27a5-4cc8-8e8b-85bd8bb1c877'
